@@ -1,0 +1,4 @@
+com\microservice\model\UserTest.class
+com\microservice\service\UserServiceImplTest.class
+com\microservice\UserServiceApplicationTests.class
+com\microservice\controller\UserControllerTest.class
